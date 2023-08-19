@@ -1,0 +1,12 @@
+{
+    "liveServer.settings.port": 5502,
+    "spellright.language": [
+        "es"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "javascript"
+    ]
+}
